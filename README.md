@@ -1,3 +1,6 @@
+Forked from ZeroDev Kernel: https://github.com/zerodevapp/kernel <br>
+Adds various Account modules.
+
 # Kernel v4
 
 ERC-4337 / ERC-7702 modular smart account with pluggable validation and execution modules. Implements [ERC-7579](https://eips.ethereum.org/EIPS/eip-7579) for standardized module interfaces.
